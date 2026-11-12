@@ -48,7 +48,6 @@ git clone https://github.com/pa-vili/android_hardware_qcom_display.git -b calcit
 git clone https://github.com/pa-vili/android_hardware_qcom_gps.git -b calcite-legacy-component hardware/qcom/gps
 git clone https://github.com/pa-vili/android_hardware_qcom_media.git -b calcite-888 hardware/qcom/media
 git clone https://github.com/pa-vili/android_hardware_qcom_thermal.git -b calcite-legacy vendor/qcom/opensource/thermal-hal
-git clone https://github.com/pa-vili/hardware_qcom_bootctrl.git -b calcite hardware/qcom/bootctrl
 git clone https://github.com/pa-vili/android_hardware_xiaomi.git -b calcite hardware/xiaomi
 ```
 
@@ -93,7 +92,6 @@ m bacon
 | `hardware/qcom/media` | `pa-vili/android_hardware_qcom_media` | `calcite-888` |
 | `vendor/qcom/opensource/thermal-hal` | `pa-vili/android_hardware_qcom_thermal` | `calcite-legacy` |
 | `hardware/xiaomi` | `pa-vili/android_hardware_xiaomi` | `calcite` |
-| `hardware/qcom/bootctrl` | `pa-vili/hardware_qcom_bootctrl` | `calcite` |
 | `device/xiaomi/vili` | `pa-vili/device_xiaomi_vili` | `calcite` |
 | `device/xiaomi/sm8350-common` | `pa-vili/device_xiaomi_sm8350-common` | `calcite` |
 | `device/xiaomi/vili-kernel` | `pa-vili/device_xiaomi_vili-kernel` | `calcite` |

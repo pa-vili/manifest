@@ -51,10 +51,6 @@
              name="android_hardware_xiaomi"
              remote="pa-vili"
              revision="calcite" />
-    <project path="hardware/qcom/bootctrl"
-             name="hardware_qcom_bootctrl"
-             remote="pa-vili"
-             revision="calcite" />
 
     <!-- Device & Vendor Trees -->
     <project path="device/xiaomi/vili"
